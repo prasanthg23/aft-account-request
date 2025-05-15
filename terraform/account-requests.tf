@@ -31,5 +31,5 @@ module "account_request_01" {
     custom2 = "b"
   }
 
-  account_customizations_name = "SANDBOX"
+  account_customizations_name = "PRODUCTION"
 }
